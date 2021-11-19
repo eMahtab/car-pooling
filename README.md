@@ -68,4 +68,4 @@ class Solution {
 ```
 
 # References :
-https://leetcode.com/problems/car-pooling
+https://www.youtube.com/watch?v=nO95uYKB-lo (Good explanation)
